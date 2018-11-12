@@ -21,7 +21,7 @@ allprojects {
 **Step 2. Add the dependency**
 ```gradle
 dependencies {
-    implementation 'io.github.meness:rxWebSocket:x.y.z'
+    implementation 'com.github.meness:rxWebSocket:x.y.z'
 }
 ```
 **Note:** Replace `x.y.z` with the latest version which can be found at [releases page](https://github.com/meness/rxWebSocket/releases).
